@@ -1,3 +1,5 @@
+package ru.netology;
+
 import ru.netology.Game;
 import ru.netology.NotRegisteredException;
 import ru.netology.Player;
